@@ -1,0 +1,17 @@
+* cors
+* mongoose
+* wikijs
+
+# Dev
+* undefined
+
+## Babel
+* babel-eslint
+
+## Test
+* chai
+* mocha
+
+## Eslint
+* eslint-config-react-app
+* eslint-plugin-flowtype
