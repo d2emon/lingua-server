@@ -1,0 +1,334 @@
+[
+  {
+    "slug": "boreic",
+    "name": "Борейская гиперсемья",
+    "languagesCount": 2448
+  },
+
+  {
+    "parent": "boreic",
+    "slug": "afroasian",
+    "name": "Афроазиaтские языки",
+    "languagesCount": 375
+  },
+  {
+    "parent": "afroasian",
+    "slug": "egiptian",
+    "name": "Египетская ветвь",
+    "dead": true,
+    "languagesCount": 5
+  },
+  {
+    "parent": "afroasian",
+    "slug": "berber-canarian",
+    "name": "Берберо-канарская ветвь",
+    "languagesCount": 26
+  },
+  {
+    "parent": "afroasian",
+    "slug": "chadian",
+    "name": "Чадская ветвь",
+    "languagesCount": 195
+  },
+  {
+    "parent": "afroasian",
+    "slug": "kushite",
+    "name": "Кушитская ветвь",
+    "languagesCount": 47
+  },
+  {
+    "parent": "afroasian",
+    "slug": "omote",
+    "name": "Омотская ветвь",
+    "languagesCount": 28
+  },
+  {
+    "parent": "afroasian",
+    "slug": "semitic",
+    "name": "Семитская ветвь",
+    "languagesCount": 77
+  },
+
+  {
+    "parent": "boreic",
+    "slug": "nostratic",
+    "name": "Ностратические языки",
+    "languagesCount": 639,
+    "level": 0
+  },
+  {
+    "parent": "nostratic",
+    "slug": "nostratic-west",
+    "name": "Западно-ностратические языки",
+    "languagesCount": 455
+  },
+
+  {
+    "parent": "nostratic-west",
+    "slug": "cartvellic",
+    "name": "Картвельские языки",
+    "languagesCount": 6
+  },
+
+  {
+    "parent": "nostratic",
+    "slug": "nostratic-east",
+    "name": "Восточно-ностратические языки",
+    "languagesCount": 184
+  },
+  {
+    "parent": "nostratic-east",
+    "slug": "altaic",
+    "name": "Алтайские языки",
+    "languagesCount": 79
+  },
+  {
+    "parent": "altaic",
+    "slug": "turc",
+    "name": "Тюркская ветвь"
+  },
+  {
+    "parent": "altaic",
+    "slug": "mongol",
+    "name": "Монгольская ветвь"
+  },
+  {
+    "parent": "altaic",
+    "slug": "tungus-manchzhour",
+    "name": "Тунгусо-манчжурская ветвь"
+  },
+  {
+    "parent": "altaic",
+    "slug": "japan-ryukyus",
+    "name": "Японо-рюкюсская ветвь"
+  },
+  {
+    "parent": "altaic",
+    "slug": "korean",
+    "name": "Корейская ветвь"
+  },
+
+  {
+    "parent": "nostratic-east",
+    "slug": "dravidic",
+    "name": "Дравидские языки",
+    "languagesCount": 66
+  },
+
+  {
+    "parent": "nostratic-east",
+    "slug": "ural",
+    "name": "Уральские языки",
+    "languagesCount": 39
+  },
+
+  {
+    "parent": "boreic",
+    "slug": "sino-caucas",
+    "name": "Сино-кавказские языки",
+    "languagesCount": 449
+  },
+
+  {
+    "parent": "sino-caucas",
+    "slug": "dene-enisey",
+    "name": "Дене-енисейские языки",
+    "languagesCount": 48
+  },
+  {
+    "parent": "dene-enisey",
+    "slug": "enisey",
+    "name": "Енисейские языки",
+    "languagesCount": 2
+  },
+  {
+    "parent": "dene-enisey",
+    "slug": "na-dene",
+    "name": "Языки на-дене",
+    "languagesCount": 42
+  },
+  {
+    "parent": "dene-enisey",
+    "slug": "ayn",
+    "name": "Айнская семья",
+    "dead": true,
+    "languagesCount": 3
+  },
+
+  {
+    "parent": "sino-caucas",
+    "slug": "caucas-north",
+    "name": "Северокавказские языки",
+    "languagesCount": 34
+  },
+  {
+    "parent": "caucas-north",
+    "slug": "abhaz-adygean",
+    "name": "Абхазо-адыгейские языки"
+  },
+  {
+    "parent": "caucas-north",
+    "slug": "nahsk-dagestan",
+    "name": "Нахско-дагестанские языки"
+  },
+
+  {
+    "parent": "sino-caucas",
+    "slug": "hurrite-urartu",
+    "name": "Хурито-урартские языки",
+    "dead": true,
+    "languagesCount": 2
+  },
+
+  {
+    "parent": "sino-caucas",
+    "slug": "sino-tibetian",
+    "name": "Сино-тибетские языки",
+    "languagesCount": 363
+  },
+
+  {
+    "parent": "boreic",
+    "slug": "austric",
+    "name": "Аустрические языки",
+    "languagesCount": 1360
+  },
+  {
+    "parent": "austric",
+    "slug": "austronesian",
+    "name": "Австронезийские языки",
+    "languagesCount": 1268
+  },
+  {
+    "parent": "austronesian",
+    "slug": "malay-polinesian",
+    "name": "Малайско-полинезийская семья",
+    "languagesCount": 1248
+  },
+  {
+    "parent": "austronesian",
+    "slug": "formosian",
+    "name": "Формозская (тайваньская) семья",
+    "languagesCount": 20
+  },
+  {
+    "parent": "austric",
+    "slug": "myao-yao",
+    "name": "Языки мяо-яо",
+    "languagesCount": 22
+  },
+  {
+    "parent": "austric",
+    "slug": "tai-kadai",
+    "name": "Тай-кадайские языки",
+    "languagesCount": 70
+  },
+
+  {
+    "slug": "makro-zhe",
+    "name": "Макро-же языки",
+    "languagesCount": 50
+  },
+  {
+    "slug": "andaman",
+    "name": "Андаманские языки",
+    "languagesCount": 14
+  },
+  {
+    "slug": "paleoasian",
+    "name": "Палеоазиатские языки",
+    "languagesCount": 187
+  },
+  {
+    "parent": "paleoasian",
+    "slug": "chukcha-kamchadal",
+    "name": "Чукотско-камчатские языки",
+    "languagesCount": 5
+  },
+  {
+    "parent": "paleoasian",
+    "slug": "eskimo-aleuti",
+    "name": "Эскимосско-алеутские языки",
+    "languagesCount": 11
+  },
+  {
+    "parent": "paleoasian",
+    "slug": "yukagir",
+    "name": "Юкагирские языки",
+    "languagesCount": 2
+  },
+  {
+    "parent": "paleoasian",
+    "slug": "austroasian-superfamily",
+    "name": "Австроазиатская надсемья",
+    "languagesCount": 169
+  },
+  {
+    "parent": "austroasian-superfamily",
+    "slug": "austroasian",
+    "name": "Австроазиатская семья",
+    "languagesCount": 163
+  },
+  {
+    "parent": "austroasian-superfamily",
+    "slug": "nicobaric",
+    "name": "Никобарская семья",
+    "languagesCount": 6
+  },
+
+  {
+    "slug": "african",
+    "name": "Языки Африки",
+    "languagesCount": 1744
+  },
+  {
+    "parent": "african",
+    "slug": "niger-congo",
+    "name": "Нигеро-конголезские языки",
+    "languagesCount": 1514
+  },
+  {
+    "parent": "african",
+    "slug": "nile-saharian",
+    "name": "Нило-сахарские языки",
+    "languagesCount": 204
+  },
+  {
+    "parent": "african",
+    "slug": "coisan",
+    "name": "Койсанские языки",
+    "languagesCount": 26
+  },
+
+  {
+    "slug": "papuan",
+    "name": "Папуасские языки",
+    "languagesCount": 832
+  },
+
+  {
+    "slug": "tirren",
+    "name": "Тирренская семья",
+    "dead": true,
+    "languagesCount": 2
+  },
+
+  {
+    "slug": "unclassified",
+    "name": "Неклассифицированные языки",
+    "languagesCount": 20
+  },
+  {
+    "parent": "unclassified",
+    "slug": "unclassified-european",
+    "name": "Неклассифицированные языки Европы",
+    "dead": true,
+    "languagesCount": 12
+  },
+  {
+    "parent": "unclassified",
+    "slug": "unclassified-african",
+    "name": "Неклассифицированные языки Африки",
+    "languagesCount": 8
+  }
+]

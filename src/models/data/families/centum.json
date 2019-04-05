@@ -1,0 +1,300 @@
+[
+  {
+    "parent": "indo-european",
+    "slug": "centum",
+    "name": "Кентум"
+  },
+  {
+    "parent": "centum",
+    "slug": "tocharian",
+    "name": "Тохарская ветвь",
+    "age": "3700 BC",
+    "dead": true,
+    "level": 6
+  },
+  {
+    "parent": "centum",
+    "slug": "germanic",
+    "name": "Германская ветвь",
+    "age": "500 BC - 3300 BC",
+    "level": 6
+  },
+  {
+    "parent": "germanic",
+    "slug": "germanic-west",
+    "name": "Западногерманская группа",
+    "age": "500 BC - 100 BC",
+    "level": 8
+  },
+  {
+    "parent": "germanic-west",
+    "slug": "ingvaeonic",
+    "name": "Германские языки Северного моря"
+  },
+  {
+    "parent": "ingvaeonic",
+    "slug": "anglo-frisian",
+    "name": "Англо-фризская подгруппа",
+    "level": 9
+  },
+  {
+    "parent": "anglo-frisian",
+    "slug": "frisian",
+    "name": "Фризский кластер"
+  },
+  {
+    "parent": "anglo-frisian",
+    "slug": "anglic",
+    "name": "Английский кластер"
+  },
+  {
+    "parent": "ingvaeonic",
+    "slug": "low-german",
+    "name": "Нижненемецкая подгруппа",
+    "level": 9
+  },
+  {
+    "parent": "germanic-west",
+    "slug": "istvaeonic",
+    "name": "Нидерландские"
+  },
+  {
+    "parent": "germanic-west",
+    "slug": "irmionic",
+    "name": "Верхненемецкие"
+  },
+
+  {
+    "parent": "germanic",
+    "slug": "germanic-north",
+    "name": "Северогерманская (скандинавская) группа",
+    "age": "500 BC - 100 BC",
+    "level": 8
+  },
+  {
+    "parent": "germanic-north",
+    "slug": "scandinavian-island",
+    "name": "Островная подгруппа",
+    "level": 9
+  },
+  {
+    "parent": "germanic-north",
+    "slug": "scandinavian-continental",
+    "name": "Континентальная подгруппа",
+    "level": 9
+  },
+  {
+    "parent": "scandinavian-continental",
+    "slug": "scandinavian-west",
+    "name": "Западноскандинавские языки"
+  },
+  {
+    "parent": "scandinavian-west",
+    "slug": "danish",
+    "name": "Датский"
+  },
+  {
+    "parent": "scandinavian-west",
+    "slug": "norwegian",
+    "name": "Норвежский"
+  },
+  {
+    "parent": "scandinavian-continental",
+    "slug": "scandinavian-east",
+    "name": "Восточноскандинавские языки"
+  },
+  {
+    "parent": "scandinavian-east",
+    "slug": "swedish",
+    "name": "Шведский"
+  },
+  {
+    "parent": "scandinavian-east",
+    "slug": "gutnish",
+    "name": "Гутнийкий"
+  },
+
+  {
+    "parent": "germanic",
+    "slug": "germanic-east",
+    "name": "Восточногерманская группа",
+    "age": "500 BC - 100 BC",
+    "dead": true,
+    "level": 8
+  },
+
+
+  {
+    "parent": "centum",
+    "slug": "italic",
+    "name": "Италийская ветвь",
+    "age": "...2500 BC - 3000 BC",
+    "level": 6
+  },
+  {
+    "parent": "italic",
+    "slug": "latino-faliskan",
+    "name": "Латино-фалискская группа"
+  },
+  {
+    "parent": "latino-faliskan",
+    "slug": "romance",
+    "name": "Романская группа",
+    "level": 8
+  },
+  {
+    "parent": "romance",
+    "slug": "romance-west",
+    "name": "Западно-романские языки"
+  },
+  {
+    "parent": "romance-west",
+    "slug": "iberian-romance",
+    "name": "Иберо-романская подгруппа"
+  },
+  {
+    "parent": "iberian-romance",
+    "slug": "gallo-romance",
+    "name": "Галло-романская подгруппа"
+  },
+  {
+    "parent": "gallo-romance",
+    "slug": "oxitan-romance",
+    "name": "Окситано-романская подгруппа"
+  },
+  {
+    "parent": "gallo-romance",
+    "slug": "rhaeto-romance",
+    "name": "Рето-романская подгруппа"
+  },
+  {
+    "parent": "iberian-romance",
+    "slug": "iberian-west",
+    "name": "Западно-иберийские языки"
+  },
+  {
+    "parent": "iberian-west",
+    "slug": "astur-leonese",
+    "name": "Астурлеонский язык"
+  },
+  {
+    "parent": "iberian-west",
+    "slug": "castillian",
+    "name": "Испанские языки"
+  },
+  {
+    "parent": "iberian-west",
+    "slug": "galician-potuguese",
+    "name": "Галисийско-португальские языки"
+  },
+
+  {
+    "parent": "romance-west",
+    "slug": "italic-romance",
+    "name": "Италийско-романская подгруппа"
+  },
+  {
+    "parent": "italic-romance",
+    "slug": "italic-north",
+    "name": "Северные диалекты"
+  },
+  {
+    "parent": "italic-romance",
+    "slug": "italic-central",
+    "name": "Центральные диалекты"
+  },
+  {
+    "parent": "italic-romance",
+    "slug": "italic-south",
+    "name": "Южные диалекты"
+  },
+  {
+    "parent": "italic-romance",
+    "slug": "italic-island",
+    "name": "Островные диалекты"
+  },
+
+  {
+    "parent": "romance",
+    "slug": "romance-east",
+    "name": "Балкано-романские языки"
+  },
+  {
+    "parent": "romance-east",
+    "slug": "danubian-north",
+    "name": "Северодунайские языки"
+  },
+  {
+    "parent": "romance-east",
+    "slug": "danubian-south",
+    "name": "Южнодунайские языки"
+  },
+
+  {
+    "parent": "italic-south",
+    "slug": "apulic",
+    "name": "Апулийский"
+  },
+  {
+    "parent": "italic-south",
+    "slug": "sicylic",
+    "name": "Сицилийский"
+  },
+  {
+    "parent": "italic-island",
+    "slug": "sardinic",
+    "name": "Сардинский"
+  },
+
+  {
+    "parent": "italic",
+    "slug": "osco-umbrian",
+    "name": "Оскско-умбрская (сабельская) группа",
+    "dead": true
+  },
+
+  {
+    "parent": "centum",
+    "slug": "celtic",
+    "name": "Кельтская ветвь",
+    "age": "...2500 BC - 3000 BC",
+    "level": 6
+  },
+  {
+    "parent": "celtic",
+    "slug": "celtic-continental",
+    "name": "Континентальная группа",
+    "dead": true
+  },
+  {
+    "parent": "celtic-continental",
+    "slug": "spanish-celtic",
+    "name": "Испано-кельтские языки",
+    "dead": true
+  },
+  {
+    "parent": "celtic",
+    "slug": "celtic-insular",
+    "name": "Островная группа"
+  },
+  {
+    "parent": "celtic-insular",
+    "slug": "goidelic",
+    "name": "Гойдельская группа"
+  },
+  {
+    "parent": "celtic-insular",
+    "slug": "brittonic",
+    "name": "Бриттская группа"
+  },
+  {
+    "parent": "brittonic",
+    "slug": "brittonic-west",
+    "name": "Западные бриттские языки"
+  },
+  {
+    "parent": "brittonic",
+    "slug": "brittonic-southwest",
+    "name": "Юго-западные бриттские языки"
+  }
+]

@@ -1,0 +1,318 @@
+[
+  {
+    "parent": "indo-european",
+    "slug": "satem",
+    "name": "Сатем"
+  },
+  {
+    "parent": "satem",
+    "slug": "paleo-balkan",
+    "name": "Палеобалканские языки",
+    "level": 6
+  },
+  {
+    "parent": "paleo-balkan",
+    "slug": "daco-thracian",
+    "name": "Фрако-дакийская (дакийская) группа",
+    "dead": true,
+    "level": 8
+  },
+  {
+    "parent": "paleo-balkan",
+    "slug": "illyrian",
+    "name": "Иллиро-мессапская (иллирийская) группа",
+    "level": 8
+  },
+  {
+    "parent": "paleo-balkan",
+    "slug": "graeco-armenian",
+    "name": "Греко-фригийско-армянская группа",
+    "age": "2500 BC... - 2800 BC (Armenian), 2500 BC (Greek)",
+    "level": 8
+  },
+  {
+    "parent": "graeco-armenian",
+    "slug": "hellenic",
+    "name": "Греческая подгруппа",
+    "level": 9
+  },
+  {
+    "parent": "graeco-armenian",
+    "slug": "phrygian-armenian",
+    "name": "Фригийско-армянская подгруппа",
+    "level": 9
+  },
+  {
+    "parent": "phrygian-armenian",
+    "slug": "armenian-group",
+    "name": "Армянская группа",
+    "level": 10
+  },
+
+  {
+    "parent": "satem",
+    "slug": "balto-slavic",
+    "name": "Балто-славянская ветвь",
+    "age": "500 BC - 2800 BC",
+    "level": 6
+  },
+  {
+    "parent": "balto-slavic",
+    "slug": "baltic",
+    "name": "Балтийская группа"
+  },
+  {
+    "parent": "baltic",
+    "slug": "baltic-west",
+    "name": "Западная подгруппа",
+    "dead": true
+  },
+  {
+    "parent": "baltic-west",
+    "slug": "prusso-yotvingian",
+    "name": "Прусско-ятвяжский кластер",
+    "dead": true
+  },
+  {
+    "parent": "baltic",
+    "slug": "baltic-east",
+    "name": "Восточная подгруппа"
+  },
+  {
+    "parent": "baltic",
+    "slug": "dniepr",
+    "name": "Днепровско-окская подгруппа",
+    "dead": true
+  },
+  {
+    "parent": "balto-slavic",
+    "slug": "slavic",
+    "name": "Славянская группа",
+    "level": 8
+  },
+  {
+    "parent": "slavic",
+    "slug": "slavic-east",
+    "name": "Восточнославянские",
+    "level": 9
+  },
+  {
+    "parent": "slavic",
+    "slug": "slavic-west",
+    "name": "Западнославянские",
+    "level": 9
+  },
+  {
+    "parent": "slavic-west",
+    "slug": "czech-slovak",
+    "name": "Чехословацкая подгруппа",
+    "level": 10
+  },
+  {
+    "parent": "slavic-west",
+    "slug": "lechitic",
+    "name": "Лехитская подгруппа",
+    "level": 10
+  },
+  {
+    "parent": "slavic-west",
+    "slug": "sorbian",
+    "name": "Лужицкая подгруппа",
+    "level": 10
+  },
+  {
+    "parent": "slavic",
+    "slug": "slavic-south",
+    "name": "Южнославянские",
+    "level": 9
+  },
+  {
+    "parent": "slavic-south",
+    "slug": "slavic-south-east",
+    "name": "Юго-восточная подгруппа"
+  },
+  {
+    "parent": "slavic-south",
+    "slug": "slavic-south-west",
+    "name": "Юго-западная подгруппа"
+  },
+  {
+    "parent": "slavic-south-west",
+    "slug": "serbo-croatian",
+    "name": "Сербохорватский"
+  },
+
+  {
+    "parent": "satem",
+    "slug": "indo-iranian",
+    "name": "Индоиранская ветвь",
+    "age": "2000 BC - 2200 BC",
+    "level": 6
+  },
+
+  {
+    "parent": "indo-iranian",
+    "slug": "nuristani-subbranch",
+    "name": "Нуристанская подветвь",
+    "level": 7
+  },
+  {
+    "parent": "nuristani-subbranch",
+    "slug": "nuristani",
+    "name": "Нуристанская группа"
+  },
+  {
+    "parent": "nuristani",
+    "slug": "kafiri-south",
+    "name": "Южно-кафирская подгруппа"
+  },
+  {
+    "parent": "nuristani",
+    "slug": "kafiri-north",
+    "name": "Северно-кафирская подгруппа"
+  },
+  {
+    "parent": "indo-iranian",
+    "slug": "indo-iranian-subbranch",
+    "name": "Индоиранская подветвь",
+    "level": 7
+  },
+  {
+    "parent": "indo-iranian-subbranch",
+    "slug": "dardic",
+    "name": "Дардская группа",
+    "level": 8
+  },
+  {
+    "parent": "indo-iranian-subbranch",
+    "slug": "indo-aryan",
+    "name": "Индоарийская группа",
+    "level": 8
+  },
+  {
+    "parent": "indo-aryan",
+    "slug": "indo-aryan-island",
+    "name": "Островная подгруппа",
+    "level": 9
+  },
+  {
+    "parent": "indo-aryan",
+    "slug": "indo-aryan-continental",
+    "name": "Материковая подгруппа",
+    "level": 9
+  },
+  {
+    "parent": "indo-aryan-continental",
+    "slug": "indo-aryan-continental-north",
+    "name": "Северная группа (пахари)"
+  },
+  {
+    "parent": "indo-aryan-continental",
+    "slug": "indo-aryan-continental-north-west",
+    "name": "Северо-западный кластер"
+  },
+  {
+    "parent": "indo-aryan-continental",
+    "slug": "indo-aryan-continental-west",
+    "name": "Западная группа"
+  },
+  {
+    "parent": "indo-aryan-continental",
+    "slug": "indo-aryan-continental-central",
+    "name": "Центральный кластер"
+  },
+  {
+    "parent": "indo-aryan-continental",
+    "slug": "indo-aryan-continental-east",
+    "name": "Восточный кластер"
+  },
+  {
+    "parent": "indo-aryan-continental",
+    "slug": "indo-aryan-continental-south",
+    "name": "Западная группа"
+  },
+  {
+    "parent": "indo-iranian-subbranch",
+    "slug": "iranian",
+    "name": "Иранская группа",
+    "level": 8
+  },
+
+
+  {
+    "parent": "indo-aryan-continental-central",
+    "slug": "hindi",
+    "name": "Хинди"
+  },
+  {
+    "parent": "hindi",
+    "slug": "hindi-west",
+    "name": "Западный хинди"
+  },
+  {
+    "parent": "hindi-west",
+    "slug": "hindustani",
+    "name": "Хиндустани"
+  },
+  {
+    "parent": "hindi",
+    "slug": "hindi-east",
+    "name": "Восточный хинди"
+  },
+  {
+    "parent": "indo-aryan-continental-east",
+    "slug": "biharian",
+    "name": "Бихарские"
+  },
+  {
+    "parent": "indo-aryan-continental-north-west",
+    "slug": "lahnda",
+    "name": "Лахнда"
+  },
+  {
+    "parent": "iranian",
+    "slug": "iranian-north-east",
+    "name": "Северо-восточные иранские"
+  },
+  {
+    "parent": "iranian-north-east",
+    "slug": "sogdian",
+    "name": "Согдийский",
+    "dead": true
+  },
+  {
+    "parent": "iranian",
+    "slug": "iranian-south-east",
+    "name": "Юго-восточные иранские"
+  },
+  {
+    "parent": "iranian-south-east",
+    "slug": "sacish",
+    "name": "Сакские"
+  },
+  {
+    "parent": "iranian-south-east",
+    "slug": "pamire",
+    "name": "Памирские"
+  },
+  {
+    "parent": "iranian",
+    "slug": "iranian-north-west",
+    "name": "Северо-западные иранские"
+  },
+  {
+    "parent": "iranian-north-west",
+    "slug": "caspian",
+    "name": "Диалекты Прикаспия"
+  },
+  {
+    "parent": "iranian",
+    "slug": "iranian-south-west",
+    "name": "Юго-западные иранские"
+  },
+  {
+    "parent": "iranian-south-west",
+    "slug": "farsi",
+    "name": "Персидский"
+  }
+]

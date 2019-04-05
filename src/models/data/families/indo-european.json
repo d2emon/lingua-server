@@ -1,0 +1,65 @@
+[
+  {
+    "parent": "nostratic-west",
+    "slug": "indo-european",
+    "name": "Индоевропейская семья",
+    "areal": "весь мир",
+    "speakers": "2,7 млрд",
+    "images": [
+      {
+        "text": "Слева — кентумные языки, справа — сатемные. Красным отмечены мёртвые языки.",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/IndoEuropeanTree_ru.svg"
+      },
+      {
+        "text": "Распространение индоевропейских языков по Европе.",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Indo-European-languages.gif"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/f/f1/120_World_Language.jpg"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/ru/8/89/Starostin_IE.png"
+      }
+    ],
+    "age": "V — VI тыс. лет назад",
+    "languagesCount": 449,
+    "level": 1
+  },
+
+  {
+    "parent": "indo-european",
+    "slug": "anatolian",
+    "name": "Анатолийская (хетто-лувийская) ветвь",
+    "age": "...3500 BC - 4200 BC",
+    "dead": true,
+    "level": 6
+  },
+  {
+    "parent": "anatolian",
+    "slug": "hittite",
+    "name": "Хеттская группа",
+    "dead": true,
+    "level": 9
+  },
+  {
+    "parent": "anatolian",
+    "slug": "lydian",
+    "name": "Лидийская группа",
+    "dead": true,
+    "level": 9
+  },
+  {
+    "parent": "anatolian",
+    "slug": "palaic",
+    "name": "Палайская группа",
+    "dead": true,
+    "level": 9
+  },
+  {
+    "parent": "anatolian",
+    "slug": "luwic",
+    "name": "Лувийская группа",
+    "dead": true,
+    "level": 9
+  }
+]

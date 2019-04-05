@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/d2emon/lingua-server.git"
   },
-  "author": "Dmitry Kutseko <d2emonium@gmail.com>",
+  "author": "Dmitry Kutsenko <d2emonium@gmail.com>",
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/d2emon/lingua-server/issues"
@@ -20,6 +20,7 @@
   "homepage": "https://github.com/d2emon/lingua-server#readme",
   "dependencies": {
     "cookie-parser": "~1.4.3",
+    "cors": "^2.8.5",
     "debug": "~2.6.9",
     "express": "~4.16.0",
     "morgan": "~1.9.0",
