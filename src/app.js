@@ -6,6 +6,12 @@ import cors from 'cors';
 
 import indexRouter from './routes/index';
 import languagesRouter from './routes/languages';
+import conlangsRouter from './routes/conlangs';
+import phraseologyRouter from './routes/phraseology';
+import translationRouter from './routes/translation';
+import translationBadRouter from './routes/translationBad';
+import translationMachineRouter from './routes/translationMachine';
+import idiomsRouter from './routes/idioms';
 
 // import db from './db/mongo';
 
@@ -22,6 +28,21 @@ app.use(express.static(path.join(__dirname, 'public')));
 // db.once('open', () => console.log('MongoDB connected'));
 
 app.use('/', indexRouter);
+// Индоевропейские языки
 app.use('/languages', languagesRouter);
+// Искусственные
+app.use('/conlangs', conlangsRouter);
+// Красота не спасет мир
+app.use('/phraseology', phraseologyRouter);
+// Ложные друзья переводчика
+app.use('/translation-bad', translationBadRouter);
+// Машинный перевод
+app.use('/translation-machine', translationMachineRouter);
+// Русский язык
+app.use('/russian', languagesRouter);
+// На разных языках
+app.use('/translation', translationRouter);
+// Сленг
+app.use('/idioms', idiomsRouter);
 
 export default app;

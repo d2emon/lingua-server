@@ -1,6 +1,7 @@
 import express from 'express';
 import familiesModel from '../models/families';
 import languagesModel from '../models/languages';
+import wikiModel from '../models/wiki';
 
 const router = express.Router();
 
@@ -30,9 +31,24 @@ router.get('/group/:group?', (req, res) => {
   familiesModel.byParent()
     .then(groups => group && familiesModel.withChildren(group))
     .then(groups => res.json({ group, groups: groups && groups.children }));
-  // families.byParent()
-  //   .then(data => item && families.withChildren(item.slug))
-  //   .then(family => family && family.children)
+});
+
+/* GET languages wiki page. */
+router.get('/wiki', (req, res) => {
+  wikiModel.bySlug('languages')
+    .then(wiki => res.json(wiki));
+});
+
+/* GET irish language wiki page. */
+router.get('/wiki/irish', (req, res) => {
+  wikiModel.bySlug('languages/irish')
+    .then(wiki => res.json(wiki));
+});
+
+/* GET russian language wiki page. */
+router.get('/wiki/russian', (req, res) => {
+  wikiModel.bySlug('languages/russian')
+    .then(wiki => res.json(wiki));
 });
 
 export default router;
