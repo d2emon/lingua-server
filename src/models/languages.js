@@ -1,7 +1,7 @@
 import languages from './data/languages';
 
 export default {
-  getAll: () => languages,
+  all: () => languages,
   byGroup: slug => languages
     .then(data => data.filter(item => item.group === slug)),
 };

@@ -11,7 +11,7 @@ import phraseologyRouter from './routes/phraseology';
 import translationRouter from './routes/translation';
 import translationBadRouter from './routes/translationBad';
 import translationMachineRouter from './routes/translationMachine';
-import idiomsRouter from './routes/idioms';
+import slangsRouter from './routes/slangs';
 
 // import db from './db/mongo';
 
@@ -43,6 +43,6 @@ app.use('/russian', languagesRouter);
 // На разных языках
 app.use('/translation', translationRouter);
 // Сленг
-app.use('/idioms', idiomsRouter);
+app.use('/slangs', slangsRouter);
 
 export default app;

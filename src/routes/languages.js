@@ -7,7 +7,7 @@ const router = express.Router();
 
 /* GET languages list. */
 router.get('/', (req, res) => {
-  languagesModel.getAll()
+  languagesModel.all()
     .then(languages => res.json({ languages }));
 });
 

@@ -6,7 +6,7 @@ const router = express.Router();
 
 /* GET wiki page. */
 router.get('/', (req, res) => {
-  conlangModel.getAll()
+  conlangModel.all()
     .then(conlangs => res.json({ conlangs }));
 });
 
