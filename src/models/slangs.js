@@ -6,6 +6,8 @@ export default {
       ...slang,
       text: undefined,
       appendix: undefined,
+      dictionary: undefined,
+      links: undefined,
     }))),
   bySlug: slug => slangs
     .then(data => data.filter(item => item.slug === slug))
