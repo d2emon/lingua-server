@@ -1,11 +1,13 @@
 import boyarSlang from './boyar';
 import gamerSlang from './gamer';
+import mudSlang from './mud';
 import lurkSlang from './lurk';
 
 export default Promise.resolve(
   [].concat(
     boyarSlang,
     gamerSlang,
+    mudSlang,
     lurkSlang,
   ).map((slang, id) => ({
     id: id + 1,
